@@ -100,12 +100,16 @@ close $output
     usage of read_sdc proc to obtain parameters from .sdc file:
     Execution of Procs to obtain .conf file:
   * 4.Creation of .conf and .spef file:
+  
     *.spef file:
+    
     *.conf file:
+    
 5.Quality of Results (QoR):
+
 Quality of Results is a term used in evaluating technological processes. In this case, we have different parameters with respect to instances such as setup violations, hold violations, worst negative slack and Run-time to determing the Quality of Results.
 
-   Display of Outputs after parameters are filed in .results file:
+ Display of Outputs after parameters are filed in .results file:
 6. Final Output of TCL Script
 
 ### CONCLUSION
