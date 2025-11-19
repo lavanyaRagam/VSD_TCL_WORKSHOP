@@ -179,11 +179,13 @@ close $output
 * Usage of Procs: what is a proc? The proc file system acts as an interface to internal data structures in the kernel. It can be used to obtain information about the system and to change certain kernel parameters at runtime.
 
     set_multi_cpu_usage proc:
+  
 
 		<img width="728" height="417" alt="image" src="https://github.com/user-attachments/assets/59d1aab1-3fd8-43c5-9293-03f60e45be39" />
 
 
     usage of read_sdc proc to obtain parameters from .sdc file:
+  
 
 		<img width="465" height="723" alt="image" src="https://github.com/user-attachments/assets/8627e051-3cd4-4751-8c0b-9678ddb063c4" />
 
